@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+
+    margin: 0;
+}
+.about {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    color: red;
+    font-size: 80px;
+    text-align: center;
+
+}
+.name {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 3px;
+    color: rgb(83, 83, 83);
+}
+.card {
+    justify-self: center;
+}
+.q {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(83, 83, 83);
+}
+.us {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(83, 83, 83);
+    line-height: 50px;
+    padding: 20px;
+}
+.us2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px;
+    color: rgb(83, 83, 83);
+    line-height: 50px;
+}
+.img {
+    margin-left: 30%;
+}
+.foot {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 26px;
+    width: 100%;
+    height: 270px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    background-color:rgb(0, 0, 0);
+}
+.right {
+    text-align: left;
+    padding-right: 10px;
+    float:right;
+    width: 50%;
+    height: 250px;
+}
+.left{
+    float: left;
+    width: 50%;
+    height: 250px;
+}
